@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Rich dad Poor dad",
+        "author": "Asim",
+        "year": 2025.0,
+        "genre": "Mastery",
+        "read": true
+    }
+]
